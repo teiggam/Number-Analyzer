@@ -1,0 +1,13 @@
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.exe
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\bin\Debug\netcoreapp3.1\Number Analyzer.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.csprojAssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.dll
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.pdb
+C:\Users\Maggie\Documents\Grand Circus\Projects\Number Analyzer\Number Analyzer\obj\Debug\netcoreapp3.1\Number Analyzer.genruntimeconfig.cache

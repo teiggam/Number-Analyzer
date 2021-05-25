@@ -46,28 +46,30 @@ namespace Number_Analyzer
                     Console.WriteLine("The number " + input + " is odd.");
                 }
 
-                Console.WriteLine();
-                Console.WriteLine("Want to check more numbers? (y/n): ");
-                string answer = Console.ReadLine();
-
-                if (answer.ToLower() == "y")
-                {
-                    choice = true;
-                    continue;
-                }
-                else if (answer.ToLower() == "n")
+                while (true)
                 {
                     Console.WriteLine();
-                    Console.WriteLine("That's too bad, I was just getting warmed up!");
-                    Console.WriteLine("Thanks and have a wonderful day " + userName + "!");
-                    choice = false;
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("I don't understand, let me ask again.");
-                    continue;
+                    Console.WriteLine("Want to check more numbers? (y/n): ");
+                    string answer = Console.ReadLine();
 
+                    if (answer.ToLower() == "y")
+                    {
+                        choice = true;
+                        break;
+                    }
+                    else if (answer.ToLower() == "n")
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine("That's too bad, I was just getting warmed up!");
+                        Console.WriteLine("Thanks and have a wonderful day " + userName + "!");
+                        choice = false;
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("I don't understand, let me ask again.");
+
+                    }
                 }
 
             }
